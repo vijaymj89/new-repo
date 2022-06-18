@@ -1,6 +1,6 @@
 # new-repo
 A new repo directly created on GitHub first
 
-This file has now been updated for 'update-readme' branch
+Update made on 'develop' branch locally
 
-Updated made on 'main' branch on GitHub before rebase
+to test out conflicts
